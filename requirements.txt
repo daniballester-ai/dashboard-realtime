@@ -3,3 +3,5 @@ pandas
 plotly.express
 streamlit
 time
+
+C:\Users\PC\Documents\GitHub\dashboard-realtime\requirements.txt
