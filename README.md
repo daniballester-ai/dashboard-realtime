@@ -5,8 +5,11 @@ Este projeto demonstra um painel de análise em tempo real construído com Strea
 **O que este projeto faz?**
 
 * 💡 **Simula dados em tempo real:**  O dashboard utiliza uma base de dados pública como fonte de dados e simula a recepção de novos dados a cada intervalo definido.
+  
 * 📈 **Visualiza dados em tempo real:**  Apresenta indicadores chave (KPIs) dinâmicos, gráficos interativos e tabelas que atualizam automaticamente com os novos dados.
+  
 * 🎨 **Layout responsivo:** O design do dashboard é responsivo e adapta-se a diferentes tamanhos de tela.
+  
 * 🔧 **Flexibilidade:**  O código é modular e pode ser adaptado para diferentes cenários de dados, como:
     * 💰 **Dashboard financeiro:** Monitorando indicadores financeiros, como valor de ações, taxas de juros, etc.
     * 📈 **Dashboard de marketing:** Analisando campanhas de marketing, taxas de conversão, engajamento de clientes, etc.
