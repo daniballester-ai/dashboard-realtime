@@ -15,6 +15,8 @@ Este projeto demonstra um painel de análise em tempo real construído com Strea
     * 📈 **Dashboard de marketing:** Analisando campanhas de marketing, taxas de conversão, engajamento de clientes, etc.
     * 🪙 **Dashboard de criptomoedas:**  Visualizando preços de criptomoedas, volumes de negociação, etc.
     * 🖥️ **Monitoramento de logs do sistema:**  Analisando registros do sistema, identificando erros, etc.
+ 
+![Tela inicial do app](https://github.com/daniballester-ai/dashboard-realtime/blob/main/dashboard.jpg)
 
 **Recursos:**
 
